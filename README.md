@@ -5,4 +5,12 @@ Identifying rare desert plants remains challenging due to the unavailability of 
 The trained model will be implemented in our custom Android application, enabling users to capture or select a photo for classification. The application utilizes a cloud database to store various user data, including login credentials, classification history, and more.
 
 
+# Technologies used:
+
+![image](https://github.com/FadiAmon/Plant_Classification_Few_Shot_Learning/assets/73430261/4ad0f5b0-3984-4f63-885a-a6c0d53ddbdb)
+
+
+# Application classification page:
+
+
 ![image](https://github.com/FadiAmon/Plant_Classification_Few_Shot_Learning/assets/73430261/ad777ead-60b3-4912-9737-a90779d2bdf5)
